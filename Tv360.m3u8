@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+# Generated at: 2025-11-07 16:13:09
+#EXTINF:-1 tvg-id="1" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+1 CUP C1
+https://rr1-ateme.tv360.vn/live/eds/199/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzYyNTI4MzgwfQ.WTY5dEm1-yJArf_l4CAHb60J_eDrpX40EIhNqL5cGHly_lKAjJU7oU293gIz3bgwZJU3lqn1JrQL7v1K5TS09w&screen=MHN&uid=114731659
+#EXTINF:-1 tvg-id="2" group-title="VTV 👻" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://tr-netcdn.tv360.vn/netcdn-live/154/output/index.m3u8?timestamp=1762528380&wmkid=0&token=61eaf8ddf76a9513dffeb3a47db81100&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 tvg-id="3" group-title="VTV 👻" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjUyODM4M30.8LXdjrJTSkj_I4Tllu0aOBRLmeeJzzJRF2d1CiapC7WFViSy5Wv-p9zxL3hmXr3_6c-8elPOWd-dgkKe6kHSow&screen=MHN&uid=114731659
+#EXTINF:-1 tvg-id="4" group-title="VTV 👻" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjUyODM4M30.V0mjCpgkLOct4pD-0LK4HAxMVc0ewWhNW23ZFltq7qQ4OeJ2KyXgc8-fcOxUhGV0kYM2qvdjehjbcLBwCq4uFQ&screen=MHN&uid=114731659
