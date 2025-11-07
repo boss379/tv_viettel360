@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated at: 2025-11-07 19:11:58
+# Generated at: 2025-11-07 19:12:00
 #EXTINF:-1 tvg-id="1",TV360+1
 https://fo-hlc.tv360.vn/bpk-tv/199/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzgxOTYsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tcGQifQ.YtIf8I21ol7dZqeh7jWjGHwC8hvCedFQxZj5mZ9_E9M&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="2",VTV1
@@ -7,9 +7,9 @@ https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="3",VTV2
 https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjUzODE5OX0.CEcin8EF1Rs48zRMzyalcu9tfNvhs-CcGnVjhpIdU6_9LaAU1srvD7qeFA47QP479SjshKC0xZJE15Vvvw8K7g&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="4",VTV3
-http://116.108.198.134:18080/155.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RTSUPguqJlHFOtNpz2ZxdTUfeOnRqIwhja+Gpvj6e60PQaHnIDw8Ra2q3qaJRGhiTu/reZRezlshwzn7iZnxYlz/JkduG87HHCkJ/J6vsBLTz32B1lL7f4UACcu2JGxR4IJhPJ5PEaxGvrU1LtVCNba8510TvnxVwj5Xn0CC09fg==&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/155/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MjUzODIwMn0.lzvASw10gC3giPhXwVT5I66S0tXSONeypLlz4teMCqqtBUaNw1ZpmcX0UvbRtDqsPHP0JmR7A55bu_sPgiJg_w&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="6",VTV7
-http://116.108.198.150:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SCoyDphU9UqP0zVlUXRZk127uzZqGQtSjcbcv2JE05HK2Eqwj+bIc3TtoTITLuO+7bZxeYCe1mr7fmLI6WsKb5p8klcXfWqrWGiqTGxdZ36CODizpTwQQ3UcfgAKaBvvlfi8fF+0JJHUbCu2JziPmZIuQ94//kGkf+oIYKBETHTw==&uid=114731659
+http://116.108.198.150:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QCto6wptXB8qo1gT017UllsM+iUDJH8O8fOlzpKCrT/Z/IDWzYKlg1i0cLTs626m2K/1knISKIFiE0qNsV3B30VGbTfokmcKLK81xeSwGRSjXGXQIzkSfZAFxHBPwoJVFcN7kzkaiptAf/0mWKPQd6ddZmqte36kOsDRZatBJpeA==&uid=114731659
 #EXTINF:-1 tvg-id="8",VTV9
 https://fo-hlc.tv360.vn/bpk-tv/197/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzgyMTEsInVyaSI6Ii9icGstdHYvMTk3L291dHB1dC9pbmRleC5tM3U4In0.MdvLR9HzMqyD7BFPCR5PRkKlmB01WMVsax04LpAvcf4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9",HTV 2
@@ -35,15 +35,15 @@ https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="33",Hà Nội 1
 https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzgyNzEsInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.G_b8_qEk5H16Jt1bmNzMzRxcsZPk2vqO89IRkCdF2So&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="34",Hà Nội 2
-http://171.238.180.230:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Ss/NIvTJQcPZGf4tqGJ25h8Ot7ZUs//Lg/1ZO1zO9Oa5atMrZ+z8esKVO+aly05XwFyXsZirCr9UWvUUV5FlNlEF5YXiTmTAabHStR9fYfsennH9YaNWcISbHb+rmNSmcWAEhtb6k4HaTynxsHCft9eSEtOzmDBcE9hb1sZsNDMQ==&uid=114731659
+http://171.238.180.86:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Ss/NIvTJQcPZGf4tqGJ25h8Ot7ZUs//Lg/1ZO1zO9Oa5atMrZ+z8esKVO+aly05XwFyXsZirCr9UWvUUV5FlNlEF5YXiTmTAabHStR9fYfsennH9YaNWcISbHb+rmNSmcWAEhtb6k4HaTynxsHCft9eSEtOzmDBcE9hb1sZsNDMQ==&uid=114731659
 #EXTINF:-1 tvg-id="35",An Giang
-http://171.238.180.86:18080/314.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QCABbqPKmCQHX6pa6UmcecjmM+g4eM0S0MoBsCvUN1ankdepfeHlIjzflhp1/JPm0arS8T04o2tLYkKM3Zn60sHQSGi7y9aa647I3es2ICwhx85dZm5Jwu/+dPd7myt0SR8sS1X9HMc7NbzjMFL5BTjTzFa00EVtarRmPBbhZAJw==&uid=114731659
+http://171.238.180.230:18080/314.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QCABbqPKmCQHX6pa6UmcecjmM+g4eM0S0MoBsCvUN1ankdepfeHlIjzflhp1/JPm0arS8T04o2tLYkKM3Zn60sHQSGi7y9aa647I3es2ICwhx85dZm5Jwu/+dPd7myt0SR8sS1X9HMc7NbzjMFL5BTjTzFa00EVtarRmPBbhZAJw==&uid=114731659
 #EXTINF:-1 tvg-id="39",Thái Bình
-http://116.108.198.134:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S1EV/engeh9ai9pSTvGQIeMROwWys/PIpvwUWBaMxaXsmI4yA1UMbqIepqvPFClFfLp8X9nPcdNqBiCXuK4fACMLDgLYTWBxUCh8AMxqmAmnKd53gWfOyLgawJjGpNDZsw/JrM+78r5s45OiPF94gYubCajKWE77le38uAhCojEQ==&uid=114731659
+http://171.238.180.230:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S1EV/engeh9ai9pSTvGQIeMROwWys/PIpvwUWBaMxaXsmI4yA1UMbqIepqvPFClFfLp8X9nPcdNqBiCXuK4fACMLDgLYTWBxUCh8AMxqmAmnKd53gWfOyLgawJjGpNDZsw/JrM+78r5s45OiPF94gYubCajKWE77le38uAhCojEQ==&uid=114731659
 #EXTINF:-1 tvg-id="42",Bình Dương 1
 http://171.238.180.230:18080/315.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RIv0VSl6o7sK3j6OugA4OEkp62hh2VOKHmhhQfpJUOdZ+B8lo8dn4Eg3kmnP0Dxpy17NOcI4e69A5/OUryuptOuS9pC2eGv+xofFuonJsWNzL2Z09N3t5RgWeizWDdpwo4OShnZGJtoW+y99AgWhERHw5oqCkshF7Tdiub9AsrMA==&uid=114731659
 #EXTINF:-1 tvg-id="43",Bình Dương 2
-http://171.238.180.86:18080/316.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Rpce1C2gUII/pdqOeHCgw8dhK8surGUBn0sX5y/GjxwIouW3My+4BBoAo/6Z0Gm7Dobl2CBUpDHS2LuIzQTvD4fpFcY5i5GJxYxXbAo+d9HnjHz/kTGsM30Z4AAWLpeLMkNB9ZbcGqiUhdiuV9zQ7pmXrNaH6HvU1cK6WRCMIBiw==&uid=114731659
+http://171.238.180.38:18080/316.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RIenlpTTpa7IHhUpQQ3O2JJNA96BkJPlxBM0DkjXgPck3nEKyL0qlyEMrVaID/UUrMPoyUxWXKOtN/LwmhZHRbghV+U74Q5KP1bGz9cEBc8f9minJf6CFSAJgbOdCSmMtRgr7G/0rxCj2g3Yki+5Ozu/0abaAwpS5/0eo923yb7g==&uid=114731659
 #EXTINF:-1 tvg-id="45",Bình Định
 https://fo-hlc.tv360.vn/bpk-tv/393/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzgzODIsInVyaSI6Ii9icGstdHYvMzkzL291dHB1dC9pbmRleC5tM3U4In0.FFx5xWdnsK2ISmGEX_qYl6z11d2B4xdpY9Fusgw_LhI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="46",Cà Mau
@@ -65,13 +65,13 @@ https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="54",Đồng Tháp
 https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzgzOTQsInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.JXtkX5Nm2I4BTrZD0iTOaSG2-FlCHyRwxLXejA2LJOs&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="55",Gia Lai
-http://116.108.198.150:18080/259.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TpN/8nVbKhwCJoI5Sz9jnvGLgZgY5GtAtiNs/ofxfgz3Eh/eYey6COOffLtitBYG5zrS1n1SK07JidPKSQVNeGQjEafKQKSzge9RH7iGKZShF/xXv8bOl1oxVSUG6wsR4Xq6exDhIYI07txGSUEHvWfOntrPT0NFuJZ9JapSKDTQ==&uid=114731659
+http://171.238.180.230:18080/259.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TpN/8nVbKhwCJoI5Sz9jnvGLgZgY5GtAtiNs/ofxfgz3Eh/eYey6COOffLtitBYG5zrS1n1SK07JidPKSQVNeGQjEafKQKSzge9RH7iGKZShF/xXv8bOl1oxVSUG6wsR4Xq6exDhIYI07txGSUEHvWfOntrPT0NFuJZ9JapSKDTQ==&uid=114731659
 #EXTINF:-1 tvg-id="58",Hà Tĩnh
 https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg0MzAsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.3oqY_07BK6VmgJx2SQ_RimuPzLFAcLi7p0JMrPjQTgI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="59",Hải Dương
-http://171.238.180.230:18080/317.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S2zTSFVSSjOZX8LSv/jp/9NsmL472WG6eOXWldYTfGetpF92MP9srLrEteCmpH2UiHEhw7+W7CIzowYZSdeLyLCc/jSADbdAPc0Q14gtM6f4f+1VJOIsTTH7uoNcic9DiPNrjF6vAX3ioLGE3NSQ3lVrNbStkHOKdHAIkmIXAZMw==&uid=114731659
+http://116.108.198.150:18080/317.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S2zTSFVSSjOZX8LSv/jp/9NsmL472WG6eOXWldYTfGetpF92MP9srLrEteCmpH2UiHEhw7+W7CIzowYZSdeLyLCc/jSADbdAPc0Q14gtM6f4f+1VJOIsTTH7uoNcic9DiPNrjF6vAX3ioLGE3NSQ3lVrNbStkHOKdHAIkmIXAZMw==&uid=114731659
 #EXTINF:-1 tvg-id="60",Hải Phòng 2
-http://171.238.180.230:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TfWojgisA53gI3qU8C7RsQbUmh7YWdrDpVM0phoF412KrD3m826bC3Se5wrzcwufg04mXAxuTH8ooclFyaSzHC5CTP5+jL/5M6+VTk1jUTwJUZsBG/UZBUheABfRLfY+DiGpr4JNiTHjILJ19SfY9/qpuzl1KRjL5y9wTMYDdmkQ==&uid=114731659
+http://171.238.180.86:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TfWojgisA53gI3qU8C7RsQbUmh7YWdrDpVM0phoF412KrD3m826bC3Se5wrzcwufg04mXAxuTH8ooclFyaSzHC5CTP5+jL/5M6+VTk1jUTwJUZsBG/UZBUheABfRLfY+DiGpr4JNiTHjILJ19SfY9/qpuzl1KRjL5y9wTMYDdmkQ==&uid=114731659
 #EXTINF:-1 tvg-id="61",Hậu Giang
 https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg0MzYsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.3W9f2Zlz0VnuDSlo6w_JT33WwednvXjfQwLhd70Ly54&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="63",Thừa Thiên Huế
@@ -79,7 +79,7 @@ http://116.108.198.134:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdud
 #EXTINF:-1 tvg-id="64",Hưng Yên
 http://171.238.180.230:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T8gSLEysHottXc0xgz2eGp74dIyq0ptE7DB4QwIPAXH3ItwkoO55P4LIlyab1klbaACLvDlPYt2rZnmgTlDa9jjGKdCxnmRTJ+2pUTtCFvEVK05tUGIq8y0JMCySvH4AnoyOHU8xjrExIjQ2M2uh4wbWISPSvOkjcbB7Nr5r5gHQ==&uid=114731659
 #EXTINF:-1 tvg-id="65",Khánh Hòa
-http://171.238.180.230:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SaVZ0VhIgc+X2eYlk+TG8GF1godoVRcltSjfXN0s5l3b40npNc6rYQmgMUMcL28e44WJr/M9jZOS2/kPNVO+8uDClKaZeDbvCnuaPy/fT1B03d9qkSMpfMalHQoJrcdvOiDxGVTlr5b8GcMNQe7/3hQan2bRleEt4ooDLQFPp5Ig==&uid=114731659
+http://171.238.180.38:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SaVZ0VhIgc+X2eYlk+TG8GF1godoVRcltSjfXN0s5l3b40npNc6rYQmgMUMcL28e44WJr/M9jZOS2/kPNVO+8uDClKaZeDbvCnuaPy/fT1B03d9qkSMpfMalHQoJrcdvOiDxGVTlr5b8GcMNQe7/3hQan2bRleEt4ooDLQFPp5Ig==&uid=114731659
 #EXTINF:-1 tvg-id="66",Kiên Giang
 https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg0NzIsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.3namsBR8yHZNJPLW3UifZxPdYZLemJq9P0wQJZyJMf8&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="68",Lai Châu
@@ -87,7 +87,7 @@ https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="69",Lâm Đồng
 https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg0OTMsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.WS1s6mE8KWCmV6XO5kQy_q3D0suq_YDe4arYLLzEJ5Q&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="70",Lạng Sơn
-http://171.238.180.38:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TXzn7+t3t/0w/O0s6uiD/ymk0NBX7dzS4FSZ7ny/mIK7jDGKCnOdIYexA7F/xX+IHSaY+w8VxKPZW16uZmv6dHx3N2yaQjh3C1eXyNekx8PdnXZenFv9I8UKv8w0muBOizmHqzzc2ldHHTfyhcLx9t0p8JSAfBIf0yvbjXTQzI+w==&uid=114731659
+http://171.238.180.230:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TXzn7+t3t/0w/O0s6uiD/ymk0NBX7dzS4FSZ7ny/mIK7jDGKCnOdIYexA7F/xX+IHSaY+w8VxKPZW16uZmv6dHx3N2yaQjh3C1eXyNekx8PdnXZenFv9I8UKv8w0muBOizmHqzzc2ldHHTfyhcLx9t0p8JSAfBIf0yvbjXTQzI+w==&uid=114731659
 #EXTINF:-1 tvg-id="71",Lào Cai
 https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg0OTYsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.5ndUBfmTBwsfX5eLzk82iu4CMlnOY0YAt4yD-xPDNjg&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="72",Long An
@@ -97,9 +97,9 @@ https://fo-hlc.tv360.vn/bpk-tv/437/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="75",Ninh Bình
 https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg1MzIsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.10X4wfpxr-xNwvQ7m9zbku0FzLTjZfwd04u76Nc_uN4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="76",Ninh Thuận
-http://171.238.180.38:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RxjVZctMyFX85JXHHI8YJhbonoht2btNaYHpyBovXgn/4MllvypJdiFLuyhiP3s56+TmVwHrRifCpM/9LBeymAsfTq788JaSCzmF9b+nnm7woLlAqh4KAWjg82eiLJBx3O8AXQNebqX4pjBUgLRCGG1lULGzWhDP1BjwfTzcjlLA==&uid=114731659
+http://116.108.198.150:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RxjVZctMyFX85JXHHI8YJhbonoht2btNaYHpyBovXgn/4MllvypJdiFLuyhiP3s56+TmVwHrRifCpM/9LBeymAsfTq788JaSCzmF9b+nnm7woLlAqh4KAWjg82eiLJBx3O8AXQNebqX4pjBUgLRCGG1lULGzWhDP1BjwfTzcjlLA==&uid=114731659
 #EXTINF:-1 tvg-id="77",Phú Thọ
-http://171.238.180.230:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TAg/nFGOsNlIcSAWRz5SE6wSa/3Y57RxUTB+s+yJLVZC9Tf7apYl1KafzMQniHH4n2jPGs/wcUaILnSig4QZt6CikhW9cyy56UVeASFquvleAF3/lFXG1v0dOrT2FSNZbP5tfX29gQgIKJv5dkSxYK2eNuIZrc+DfvboHWIRC3JA==&uid=114731659
+http://171.238.180.86:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TAg/nFGOsNlIcSAWRz5SE6wSa/3Y57RxUTB+s+yJLVZC9Tf7apYl1KafzMQniHH4n2jPGs/wcUaILnSig4QZt6CikhW9cyy56UVeASFquvleAF3/lFXG1v0dOrT2FSNZbP5tfX29gQgIKJv5dkSxYK2eNuIZrc+DfvboHWIRC3JA==&uid=114731659
 #EXTINF:-1 tvg-id="80",Quảng Nam
 https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg1NjgsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.n63Gi0NTVF6oxOFBiG1voVdVovP4ffNaL1H43n5QYxs&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="81",Quảng Ngãi
@@ -121,114 +121,114 @@ https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="90",Tiền Giang
 https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg1OTgsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.jwEslYKZzaJfrrvHWnHP7grQPXMMKyUO9AmEogB33O8&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="92",Trà Vinh
-http://116.108.198.150:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TOSHOupmfWSmPY6bQhNkag8SzxaOcRepYwIU35KMmSr7ETUr0TK/JDvBik6UxZU4KP0E0lEzt/8TBwJduviblxwrRm+RJqim1KRIT+1RCJfdWZlFfcl0NoSD3MyvvNU9lqrAa7pvAFGLBObv9++baP7HTtcATTbAIp2FfqNkx/ig==&uid=114731659
+http://116.108.198.134:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TOSHOupmfWSmPY6bQhNkag8SzxaOcRepYwIU35KMmSr7ETUr0TK/JDvBik6UxZU4KP0E0lEzt/8TBwJduviblxwrRm+RJqim1KRIT+1RCJfdWZlFfcl0NoSD3MyvvNU9lqrAa7pvAFGLBObv9++baP7HTtcATTbAIp2FfqNkx/ig==&uid=114731659
 #EXTINF:-1 tvg-id="94",Bà Rịa Vũng Tàu
 https://fo-hlc.tv360.vn/bpk-tv/435/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2MTksInVyaSI6Ii9icGstdHYvNDM1L291dHB1dC9pbmRleC5tM3U4In0.6m11zZ_pDNkYN7Xd37dXYMQHLTj73CnDprASJM7HzpI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="96",France 24
-http://171.238.180.38:18080/287.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RcJwUHi9g6BgdVUR86dwp/UpCaE36N3l4iy22npZxqW7296yPRMhN3Dqa+Lk1QpM5e3nzmihKrY/X0Wm0KuOlnQH7sKmFyy17/uuroV+5ovErtqWfhN6/JQ70cXuNx+RrBHM23E8Uz3DdauakfWba7bd5aT+SNO1pbd+ltpJUwFQ==&uid=114731659
+http://171.238.180.86:18080/287.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RcJwUHi9g6BgdVUR86dwp/UpCaE36N3l4iy22npZxqW7296yPRMhN3Dqa+Lk1QpM5e3nzmihKrY/X0Wm0KuOlnQH7sKmFyy17/uuroV+5ovErtqWfhN6/JQ70cXuNx+RrBHM23E8Uz3DdauakfWba7bd5aT+SNO1pbd+ltpJUwFQ==&uid=114731659
 #EXTINF:-1 tvg-id="98",VTV6 Cần Thơ
-http://27.67.50.6:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RdpxmEHT1EtLaNn/4II2BMiqaUMjq5KjHteOq+c9CtMmknczY/aAjqTMKyuBTvANRSQ9eZYIUPV6xunNgwvmSOZS2KPcmU+4htfyLThhZbUTE3Ny3iK6tr1WEBzodRRXoGGMVaf6hYR+CRzMKH4/avbx8DYfelbV3R2umZ3ziHmQ==&uid=114731659
+http://116.108.198.150:18080/156.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RdpxmEHT1EtLaNn/4II2BMiqaUMjq5KjHteOq+c9CtMmknczY/aAjqTMKyuBTvANRSQ9eZYIUPV6xunNgwvmSOZS2KPcmU+4htfyLThhZbUTE3Ny3iK6tr1WEBzodRRXoGGMVaf6hYR+CRzMKH4/avbx8DYfelbV3R2umZ3ziHmQ==&uid=114731659
 #EXTINF:-1 tvg-id="99",HGTV
 https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NDAsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.nTX-_sWwoCrMdoirEOXRzdoTJ9aQ9ceQQQqE1-uKkyQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="106",NHK World Japan
 http://171.238.180.230:18080/276.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T9/7XulkYGPfgGWV/ryH3k/GUyLLaQLI8vKThYY7APbVufrCy3CRBy/9K2f9aSJsccjGGRD8es6CGnMI41QhJsWWxNg5SlTZjsq0CD2bRP4ZQlerh7ABLQ6BQ0t2wNEnbJde4SfF8jEFULrUPWT7OxggM3eu3qbmeHJtdsMCPEIw==&uid=114731659
 #EXTINF:-1 tvg-id="108",VTV4
-https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NDksInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.8MQ7kp53lkfpgAU32PEQ1pDS4zV1Efzm94pGEC93mIE&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/193/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NDMsInVyaSI6Ii9icGstdHYvMTkzL291dHB1dC9pbmRleC5tM3U4In0.ne3YjNTkzvWkM8hnlDs18r-fAl2daKgWxX-lgaKE0Jo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="110",VTV5
-https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3NjI1Mzg2Njd9.io4JZA6Vn0EXBLeGSUAVvkNTbNat-GzizZTi_juV4BFC2SAjIsSCRbIbgizuodNlI2yEYXQ-tpFmwb9DHlV2EQ&screen=MHN&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/194/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NjEsInVyaSI6Ii9icGstdHYvMTk0L291dHB1dC9pbmRleC5tM3U4In0.laCVDzwO_6LcSezkvHkcMTh0kp1fe6HLQH7jWF-oqRg&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="111",Arirang
-http://171.238.180.38:18080/70.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SYtGsl72feCtdgV5YBlxhFNO3Zqkf2npbGBA85s4bsAEKfW9DQf/BTpFkSpY2Hv2EBPJXLssc0eTFkNJX9+vCfuLbNKyGsh6UEHKniy1eALAu0oxON3mg2mgrE1jACTeUuMVAJTDBTen9HNVNAm9bCsD73gzyvYquDJVwo96BQow==&uid=114731659
+http://27.67.50.6:18080/70.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Qc4Gte2got6Ci6pjgthnFPe+AF1ATSDBxwsEndL8csBG68IutpojUov7ppufHTUYaxwGM8N3qYc3E0ds9SKVHzSeI/989mbNxtR8SmjKmOrpUsWGoq5b45AZFP28/7yTK6ho9YIubSA/hlmS1NVCS+Np91nNUSim6Xg9JsQ8Vs2A==&uid=114731659
 #EXTINF:-1 tvg-id="112",CNA
-https://fo-hlc.tv360.vn/bpk-tv/433/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2ODUsInVyaSI6Ii9icGstdHYvNDMzL291dHB1dC9pbmRleC5tM3U4In0.PO2gkGrzaR7irXsZ1OqMAA4z6IW_m22BssGRrK6oNAo&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/433/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NjQsInVyaSI6Ii9icGstdHYvNDMzL291dHB1dC9pbmRleC5tM3U4In0.TPclPYsV8g93K01iDRmoQnm2DshVMR6d_f6zmn__Q0E&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="115",VTV8
-https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2ODUsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.sGPnkZ0uUlGN1W9HBl4Fl4qqKOr6EcJgIsrCgp8dlLg&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NjQsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.RNReWIV4NrgwMrhvPfox1dDOHRobShW-JOs7HZKJrxU&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="132",HTVC+
-https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2ODgsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.LV5PY4EvQKujKNYF7VSLP6Xp2zuhwL7BpMnExZlSH8A&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NjcsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0._xBxViFZTh0_WaIN-igqLc-sk2XTKpPMgLfrxMz5fuo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="133",HTVC Du Lịch và Cuộc Sống
-https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2ODgsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0._7uerqIE4CfSUDol5QviWmF_KbQZ0y0OrkZc0XsUokM&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2NjcsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.DHAVlZ_Cp-U1ojx4UZBEtE1727hsbpsTGHM5GwBmkgk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="134",Quảng Ninh
-https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2OTEsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.VART4sEYdLc0Sljn3XnvsNrRLm8FjidESUistLZ3H8k&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg2ODUsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.djD7ULrsdwt6kRzJDfdVZ8E7TnF5PgvdpJcTmYlwMtY&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="136",ON 2TV
-https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MTUsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.bs8HVT8ODxRYlD1nLxuZeL5hSXkZPPNJk9TFCaPBGkE&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MDMsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.EbxgsEhHGoqv7TjWR9I4XrkdMvOWhBA1RyOdau8vsSM&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="148",TV360+2
-https://fo-hlc.tv360.vn/bpk-tv/200/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MTgsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tcGQifQ.I1vJwjciHR-OCClM6651SsXH2MFotEwaJrtm6CxZfuw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/200/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MDMsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tcGQifQ.EmNqMhhShBneOPMX5ZjIaooay0ivf4camIHHDCQa3QI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="151",Bình Thuận
-https://fo-hlc.tv360.vn/bpk-tv/246/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MTgsInVyaSI6Ii9icGstdHYvMjQ2L291dHB1dC9pbmRleC5tM3U4In0.E4hsdOFJDlItZbjlN0SIOMbK1HQ02wDpCLNECGohtC4&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/246/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MjEsInVyaSI6Ii9icGstdHYvMjQ2L291dHB1dC9pbmRleC5tM3U4In0.qpgwUYWhqMdv2lF4Fk9r1fJ3uuFBB_v8URv1Ruiithc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="157",VTV5 Tây Nam Bộ
-https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MjEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.-t74Qc_J9uQE0ONee-KWfc4ZrNysmUE-s69R-GDi2qo&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3MjQsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.1SEmlY0Yr_JPGC_sJgry3qAFgWdNuPbz9IrePWUddqY&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="163",Woman
-https://rr1-ateme.tv360.vn/live/eds/169/HLS_Clean_MHL_4s_new/169.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2OS9ITFNfQ2xlYW5fTUhMXzRzX25ldy8iLCJleHAiOjE3NjI1Mzg3Nzh9.nvknzqdQrcJSOMHztXRt6_cwzYNlqmjC7aWFz7FoY1ljELDCo-hi6KNC5WzZkycuYHFML5HjITPN5eR8C1NoHg&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/169/HLS_Clean_MHL_4s_new/169.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2OS9ITFNfQ2xlYW5fTUhMXzRzX25ldy8iLCJleHAiOjE3NjI1Mzg3ODF9.1QhCQUh_n_sOGQmwUdDONkiJX6MVKtvn-cpbChfoDIF_MOBP6MZnroJ7_ndizcaQBDCqIfAqdUmJiRx7Yqjg4g&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="169",ON Golf
-https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3NzgsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.62RjoxJfIULg1FoGDcA6svhHzYcKvAvgyAWIium22hQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODEsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.DrI8LFga8FNFKHXz5z6y9LviiLK5ogP5Y2Z_CwHSz-4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="175",ON Phim Việt
-http://171.238.180.86:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TJtB+RiSbCPGquKnmgD3Ex3y8QU++TvbNCsJthQESukey0mT9g/ObyYUGYPWttEAFktgixKM6liAYOOQHD/7IV3mVqx5g0qv8OMa2KpRIqHuQt39N+XbB0o0VQzOWxNoF3RlGAtez5Q0VgUM7FQLY5Qs6e85m3pfhDacsS6bCk8A==&uid=114731659
+http://27.67.50.6:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S4JsHZTG+b/WvWM5ENVlXKCEEpmXsl0ou8zoX/G525WF5vT9YSEW3slsHNy6BeFZpgXPfIL9oCejBhG2eWrL/R8sG6prhorhQ1alWfO4WCvF1OFIgI761e58wX4gKI7acEjhYyZJMbwNhkqPGHFFn+NZlqcVdjp8Eea2jt98/rCQ==&uid=114731659
 #EXTINF:-1 tvg-id="176",ON Cine
-https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODEsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.cp6dN8N1bpmnx0TMP0WYx9VwDCFDdK5Z1WfAK87xtgY&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODQsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.oarmtkWcSSCdgOFUKG15vpumF4WKX0z-O9v3QApq3tc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="177",ON Dramas
-https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODQsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.BzmWA_10Xipy9Q1FpWZp_hRbnVZmJap0ZJ0pD4zML0M&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODcsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.NEuo1yUeku8ckPjooirNgNTPAR5RZuUZji-PgztPYEE&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="178",ON BiBi
-https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODQsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.xFkIP4K5fq3m9KD7iML0jwiHkqkul2LPggATyvB4IrU&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDIsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.kfEJRK4OutWNUZhRUrAXKI8L7pkFnnU7bDcveey9Uq0&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="179",ON KID
-https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg3ODcsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.k8sQappZxGvAY15GJ7qnwqb2Xj9lZF8AeYnjEtFW9OQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDUsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.mHN_ZlQNJ3Qxr2sW_tc3hEbllmZ4ShrGO76V8DrSsEo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="180",ON Việt Giải Trí
-https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDIsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.FfaPKnMKYQCNuzc42_7ndykUBOwyVxPoyBwuyr01U5E&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDUsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.e6SAKQrduKO09jUw7PAXSv2-KrZ5aXshD7UJ-WG2wQI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="181",ON Movie
-https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDUsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.6eBU0AT_FTRRpcCUwMgtAVjs4iZKPRi4lGyn6k3qKe8&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDgsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.TQBxJpkX0G-MXxFifg2eV4JgPNkjMb2aBADtSWGh28A&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="182",ON Channel
-https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MDUsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.P4vm3sfjjqMaEE4UbuXgIyNixPX3A83if-yQNTslFRQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjMsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.ikXfpvMQic1xoni015ful0_8A7C9zhl5piux9wYbNHk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="184",ON Style
-https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjMsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.Ek63h2QuDFVZpkXNxuPmdnbudsLuJkjaZkD3u59MpsY&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjYsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.Vd4Eh6Z4khOTlUWEgPuNm6KqwjbJ_jflbWQsBlwsfSo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="185",ON Music
-https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjMsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.w2PW2VXe1YPFSOXuxLOdZ48Km-AZy4AdSVh1HiYy5HY&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjYsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.WJhU0-0jr6duc3T3eYqt16ASt68Q2igAl-xcRoVE6Vc&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="186",ON Trending
-https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjYsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.t1qSHAvGSrdLp3yPTYAd_mnFVEzGqGO07FUruUbvaFk&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjksInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.nHaIJQd1q9QzZvmwT_GhLtk_-tO52KEOkboKdrXgRQk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="187",ON VFamily
-https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjYsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.6Tqudu9e-6l0fLOgCmyXjjR7jCGk4VRNo50tCXt_mbY&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjksInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.yAaWFkM8KsT8zwic_yRjSOBzGJHj5GcT8p6dEmTo9Bo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="188",ON Life
-https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjksInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.iS2B0xAKr_V0xJq3aTivwFeFNS3WeDJEZwvkL1b8VsQ&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MzgsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.rXGRpnrP_DUc0y5TLLzncgjy5ZVx9mIvbPiIUUYSvIk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="189",ON Info
-https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MjksInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.TTGFAtlHJ-F156soAuqS8V0hLU3uE8lkye01205HBqw&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MzgsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.BRw8eXMCdC3ktLPTAJbDYgi_aD7WISMT1Jj4HKK3J1Q&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="190",HTV1
-https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4MzgsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.eOnoV9HZ8LNqC9Rrm7LEpKfXfbCd8lxondDR2lv_h9A&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDEsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0._PDCmPme0mNcsw4QQ4GIdlgkrq2_cZzrkkgxIC6Zt78&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="191",HTV Keys
-https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzYyNTM4ODM4fQ.R4HfIOVBsySguvxROFb0O_5qa6_36uIvv1iXn1_p7Vi8YF4pRJ6EeHjpQq60q2rdIallmIl7rIIkbtGmBH1Tkg&screen=MHN&uid=114731659
+https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzYyNTM4ODQxfQ.KmGnN4PIWOOKQ9tgrEeuDJTQt4fbQKQ3SkhAXGfsbjS8_MJErXDQtNHOpxDcSEYo053JUTNq6Zokya4Z1nG81Q&screen=MHN&uid=114731659
 #EXTINF:-1 tvg-id="192",HTV3
-https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDEsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.6qLXJQXxJ_uiBvu6VzBZntqGtu4Ns2vcXz2OQ7bfo_I&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDQsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.__KX3eR8hQ5-V3l6zAyE8VFnSIMjG1gA8wrwkknF2rg&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="193",HTV7
-https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDEsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.ZKtN8HqJrjSETZW7jqedPzZ-FsxAlRCjVeKl2FAQ2Tk&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDQsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.UX7Qesf2lW6oQPn4NC5q-BUavVb-JrEtQyuIgAsthTQ&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="194",HTV9
-https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDQsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.KjXfqwT9g_gEXRN3wqrx71M3E4L_bYonXjsgDjJmkf8&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDcsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.zRJcOMiXnAEC5mCy9JvR_JstzZr3V7dKDaOkxI8CWwI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="195",HTV Thể Thao
-https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NDQsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.1SXXw54cqcDyRY0CoWDbdPK1fUgxTT5oSXVVBggmI-Q&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NjIsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.9dOn4nlXwLhMX6E0c95qCzjBzHrgYu4QsLiOpI7Dqu0&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="201",SCTV2
-http://171.238.180.230:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QmuHOUGp6J3odL2l9Nny/ZUigmruW0n1KW9vGZ3I2IrHVRQO+1wRt5iSyJfvbHdCy7F2OtwG35IcHGF9pgkS0bkDaXQyHd2Ye+wRNZmhfsHyUVxHlEBJDT/bZNTQ7F5DKlF7WVOOJ2ClO96HOS+QH6UKpp42oCP7ryffR44VLA7Q==&uid=114731659
+http://171.238.180.38:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T1zHkLTsGUWkpPRwh2XgpbwDPzGW/BLLTLmf4C9vOuo0pricdzkPvRe8ElEwA0lBuyqPMa43kEm6ECTYZriGeXttQJypAGa4ButngSE7sviP+uK/EZXBnnW6aMqFxdGgAY+2WKMLH9hbjPXzrvIg7xt5ergzybi04Bys5fYeR0bw==&uid=114731659
 #EXTINF:-1 tvg-id="207",VTV5 Tây Nguyên
-https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NjIsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.j-xdBDZzm8467tlBFTyNP26AQPIpkxygi8r_HSnRTlg&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4NjUsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.3fmo5KAHmtiMjnghppOXP8b00UO9iG0XrSCGzfAtVQs&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="213",KBS World
 https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODMsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.Rl8SHNkiorErnq_hmjVwDZgQ_U9N8KPy6sZnH759Jno&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="214",DaVinci
-http://171.238.180.86:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SkJoQ7kAtQxNYKhiZGgIn37GtHJYN3bLLowaEOOBSHILGndVnsnxnMXQWali9fr3yxkBaC1tJwRHhw0MvwXRlRbZymsFiuJ3mRBwUgmhBUBf/38QshiV6780rcko4SsP7PMevQRk1hjmj6MuCUY91J6HvuKwgJuB53ufY4vJ7MaQ==&uid=114731659
+http://27.67.50.6:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Rn/Tk9Paot0ynrVJxyd4b8mxu+HgEVgqM6/Wa0uDbuk7NOD962w4n+KF99jbOVhCiU6rHc7bOaejdW4oblfesm/OahhxE/rWMSyuG5klNcAddd+kW+KjSimoOQnyB0qt8r915ACOEiY6h4WEVaw6P4tG0MStOdDNk+GtsHSq8yeA==&uid=114731659
 #EXTINF:-1 tvg-id="215",Asian Food Network
 https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODYsInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0.gmz59MU7P1_DxvWjCRSWBHDnIvI24aiS0wPbhuC5FdU&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="216",Outdoor
-https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODYsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.SSEsD1Sq259Cbh0MFcfuH6k6wDo_la1GAtUDZ8uo4sU&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODksInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.kSBvoSHFA6Gljwos1ZQPmWjSHA_fsfgQkb68LxOv7Y4&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="219",THVL3
 https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODksInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.8iwygoVJAJixRSIuYflHVdqhZGAUlS9KuURZ4YCZ-ZI&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="220",THVL4
-https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4ODksInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.lZoDqY0YUSOR1XN91saPJuNxKPGyPmyrDuYC31CM8h8&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4OTIsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.ddOKnpqQk-t7hxC3f7r_XoE6f1g6fu2j80d4ZKK6EFo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="232",SCTV16
 https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg4OTIsInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.xBbeyM98eNbN9nhapPTXVm2uTr0zthI_MJsAUfAr33c&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9837",TV360+5
-http://171.238.180.86:18080/201.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5hD08NSmu32yuMhdV/uVl3wh7JvB+zZ/F6taFmuWe6dgC58urrFcM6nAKdvTpznNrYeGi3aqsEoMj6kKMJ6F5eeRyK/4luny+kJvo5rC1RdhHdhefcve6RkGhnKcR2CQYQJfWwzLdZfLCxbamGjqDx/amEF3R3RBuK0xIY3neP6&uid=114731659
+http://171.238.180.86:18080/201.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXODRxPRF6fzvEDSFTZ+VghMz6EOJCCW6G+/pXW81135mA31PKGz1Q1EPdFN7NJGFkGW6JxmdBtKPbdOLtcN/CY3ePmd8cu+J6v4jRh/YWkvWKTBoFJcN8I/ScyJE495CMt2r3XvukzP973EDJkfXb8T9&uid=114731659
 #EXTINF:-1 tvg-id="9855",CNBC
 https://fo-hlc.tv360.vn/bpk-tv/293/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg5OTQsInVyaSI6Ii9icGstdHYvMjkzL291dHB1dC9pbmRleC5tM3U4In0.UoOORIE4pAeVZD8tjQnsMIDsvx-_Gmq9ipAg1udMR1I&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9856",History
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg5OTQsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.UcqFqLr0Rd6Rs-S1_Ds0eSgbX3FLB6yznsriG_mWG0w&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg5OTcsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.mSLkc4eOdzY9KOUaJHMKaYcrbxl9iA5383mAc8mabOE&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9867",TV360+6
 https://fo-hlc.tv360.vn/bpk-tv/367/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg5OTcsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tcGQifQ.RTqY4HpGl9sxkr1fpvhBrSZ2bdVX9xw3yRi7j1RDrU0&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9868",TV360+7
-https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1Mzg5OTcsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.eA16WxdLH5AMdL4j5B8pZdFxa0aBVZ6n3No-9WLCcUE&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzkwMDAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.3lSXhAbUWHZaWjBe0rlyAOjwmWWgKZSMFPn6hneeiqo&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9869",TV360+8
 https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzkwMDAsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.xbcjrXBGwo73x4zhj8x7eYWU_uRQTpCnYM29ZZRRRXk&minrate=0&maxrate=5000000&uid=114731659
 #EXTINF:-1 tvg-id="9887",TV360+9
-https://fo-hlc.tv360.vn/bpk-tv/379/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzkwMDAsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tcGQifQ.LRvslAOUX0IhLldT06hqN64rz8TgsrQsemdITCf54LM&minrate=0&maxrate=5000000&uid=114731659
+https://fo-hlc.tv360.vn/bpk-tv/379/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzkwMDMsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tcGQifQ.jhUWvKkaaKJZ5UsZAflmX-To-bnUoRkk0SCnwG-jW14&minrate=0&maxrate=5000000&uid=114731659
