@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+# Generated at: 2025-11-07 18:08:00
+#EXTINF:-1 tvg-id="1" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+1 CUP C1
+https://fo-hlc.tv360.vn/bpk-tv/199/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzUyNzcsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tcGQifQ.3jX6YCqALk8JRITqNx3Dv7y4jVJN7pjwtFHTlw3b1vE&minrate=0&maxrate=5000000&uid=114731659
+#EXTINF:-1 tvg-id="2" group-title="VTV 👻" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjI1MzUyNzcsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.X2DgP3EesM7s5qtTCb0ptWSL7_YjOsnjihQ99BvsLhs&minrate=0&maxrate=5000000&uid=114731659
